@@ -1,0 +1,26 @@
+{
+  "search_terms": [
+    "one piece card",
+    "one piece tcg",
+    "one piece manga",
+    "one piece trading card"
+  ],
+  "max_listing_price_gbp": 200,
+  "min_profit_gbp": 15,
+  "min_roi_percent": 30,
+  "min_score": 80,
+  "min_uk_sold_comps": 3,
+  "require_uk_sold_confirmation": true,
+  "require_english_label": false,
+  "shipping_in_gbp": 3.49,
+  "shipping_out_gbp": 2.8,
+  "packaging_gbp": 0.35,
+  "selling_fee_percent": 13,
+  "resale_haircut_percent": 10,
+  "max_sold_checks_per_run": 1,
+  "max_total_api_credits": 90,
+  "max_listing_rows_per_run": 96,
+  "enable_price_drop_realert": true,
+  "min_price_drop_gbp": 5,
+  "retain_seen_items": 2500
+}
