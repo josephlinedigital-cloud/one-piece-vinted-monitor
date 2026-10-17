@@ -1,0 +1,22 @@
+{
+  "result": {
+    "data": [
+      {
+        "id": "DEMO-123",
+        "title": "One Piece Shanks OP01-120 English Manga Rare card",
+        "link": "https://example.org/demo-card-not-a-real-vinted-listing",
+        "displayed_price": {"amount": 30, "currency": "GBP"},
+        "total_price": {"amount": 32.5, "currency": "GBP"},
+        "image": "",
+        "condition": "very_good"
+      },
+      {
+        "id": "DEMO-124",
+        "title": "One Piece mixed card collection bundle",
+        "link": "https://example.org/demo-bundle-not-a-real-vinted-listing",
+        "displayed_price": {"amount": 15, "currency": "GBP"},
+        "total_price": {"amount": 16, "currency": "GBP"}
+      }
+    ]
+  }
+}

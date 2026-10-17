@@ -1,0 +1,8 @@
+{
+  "card": "Shanks OP01-120 Manga",
+  "variant": "manga",
+  "benchmark_usd": 170.0,
+  "usd_gbp_rate": 0.75,
+  "uk_sold_gbp": [120.0, 125.0, 130.0, 124.0],
+  "source_note": "Invented demonstration values, not current prices or verified sales"
+}
